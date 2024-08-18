@@ -1,6 +1,3 @@
-# CyberSecurityPortifolio
-
-
 ### Professional Statement
 
 
